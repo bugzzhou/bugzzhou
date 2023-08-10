@@ -6,7 +6,7 @@
 - Exposed to unity
 
 ## I LIKE
-- 🎮Games like StardewVillege, Terraria and so on
+- 🎮Games like StardewValley, Terraria and so on
 - 🚴Leisure riding, 50/300
 - 🏃Running rookie, 10/42.195
 - 🎤Positive self-feeling singer
