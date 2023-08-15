@@ -1,7 +1,7 @@
 ## Hi, i'm a chatterbox
 
 ## I HAVE
-- I'm working for https://img.shields.io/badge/golang-black
+- I'm working for golang
 - Used to use python、c、shell
 - Exposed to unity
 
