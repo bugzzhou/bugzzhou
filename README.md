@@ -3,10 +3,10 @@
 ## Hi, i'm a chatterbox
 
 ## I HAVE
-- I'm working for golang
-- Used to use python、c、shell
-- Exposed to unity
-<span > <img src="https://img.shields.io/badge/-golang-green?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+- I'm working for <span > <img src="https://img.shields.io/badge/-golang-green?style=flat-square&logo=go&logoColor=white" /> </span>
+
+- Used to use <span > <img src="https://img.shields.io/badge/-python-?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-c-1572B6?style=flat-square&logo=c" /> <img src="https://img.shields.io/badge/-shell-oringe?style=flat-square&logo=shell" /> </span>
+- Exposed to unity <span > <img src="https://img.shields.io/badge/-unity-black?style=flat-square&logo=unity&logoColor=white" /> </span>
 
 ## I LIKE
 - 🎮Games like StardewValley, Terraria and so on
