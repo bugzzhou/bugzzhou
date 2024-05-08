@@ -10,7 +10,7 @@
 
 ## I LIKE
 - 🎮Games like StardewValley, Terraria and so on
-- 🚴Leisure riding, 50/300
+- 🚴Leisure riding, 170/300
 - 🏃Running rookie, 10/42.195
 - 🎤Positive self-feeling singer
 
