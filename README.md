@@ -32,38 +32,3 @@
 
 
 
-<br></b>
-<br></br>
-<br></br>
-<br></br>
-
-<!-- 其他内容 -->
-
-### 📅 Daily Moods
-Last updated: <span id="mood-updated-time">Just now</span>
-
-
-<style>
-.mood-container {
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  padding: 10px;
-  max-height: 150px;
-  overflow-y: scroll;
-}
-.mood-entry {
-  margin-bottom: 8px;
-}
-.mood-time {
-  font-weight: bold;
-  margin-right: 5px;
-}
-</style>
-<div class="mood-container">
-  <!-- 心情说说条目 -->
-  <!-- 你可以添加更多的心情说说条目 -->
-  <div class="mood-entry">
-    <span class="mood-time">2024年7月17日</span>
-    ebiten真好玩，一定要做出来的东西！（最好把想做的小游戏都给做出来）
-  </div>
-</div>
